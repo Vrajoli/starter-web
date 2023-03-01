@@ -3,8 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
-
+    <vinay rajoli vinayrajoli@gmail.com
 # THANKS
 
     <name>
