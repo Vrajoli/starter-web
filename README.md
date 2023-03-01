@@ -8,3 +8,5 @@ Sample website with plenty of files for demos
 
 ## how to configure
 123
+
+copyright blah
